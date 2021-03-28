@@ -1,0 +1,11 @@
+No,Nama,Umur,Upah,Kategori
+1,England,24,1500000,Rendah
+2,France,20,2000000,Tinggi
+3,Greece,25,1300000,
+4,Greece,30,2500000,Tinggi
+5,England,23,,Rendah
+6,England,26,2800000,Tinggi
+7,France,35,3000000,Tinggi
+8,France,,1000000,Rendah
+9,England,35,4000000,Tinggi
+10,Greece,36,,Rendah
